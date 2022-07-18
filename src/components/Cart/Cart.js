@@ -24,5 +24,6 @@ const Cart = ({ cart }) => {
         </div>
     );
 };
+// hi brother
 
 export default Cart;
