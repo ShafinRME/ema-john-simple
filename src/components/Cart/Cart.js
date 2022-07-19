@@ -21,9 +21,11 @@ const Cart = ({ cart }) => {
             <p>Tax:$ {tax}</p>
             <h5>Grand Total:$ {grandTotal.toFixed(2)}</h5>
             {/* Hi brother */}
-            {/* Faysal */}
+
         </div>
     );
 };
 
 export default Cart;
+
+// Faysal
